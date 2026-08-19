@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH= public_html/
+    - export DEPLOYPATH= /public_html/
     - /bin/echo "DEPLOYMENT TEST WORKED" > $DEPLOYPATH/deployment-test.txt
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp about.php $DEPLOYPATH
