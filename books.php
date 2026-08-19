@@ -154,7 +154,7 @@
     <!-- Video Testimonials -->
     <section class="py-20 bg-gradient-to-r from-purple-primary to-gold-primary text-purple">
         <div class="container mx-auto px-6 max-w-5xl ">
-            <h2 class="text-4xl font-bold text-center text-purple mb-12">What Readers Are Saying</h2>
+            <h2 class="text-4xl font-bold text-center text-purple mb-12">What Her Readers Are Saying</h2>
             <div class="grid md:grid-cols-2 gap-12 items-center">
                 <div class="bg-white rounded-lg p-6 shadow-xl">
                     <div class="aspect-video bg-gray-200 rounded mb-4 flex items-center justify-center">
